@@ -1,4 +1,4 @@
-var serviceURL = "http://65.126.165.219/PHPDataSample/assets/services/";
+var serviceURL = "http://www.lmoses.com/mobileapps/gitrepos/employee/services/";
 
 var employees;
 
